@@ -1,4 +1,6 @@
 This is a random password generator using html,css and js
+## Live site
+https://abiy5791.github.io/Random-Password-Generator/
 
 ## Screenshot
 
@@ -16,3 +18,4 @@ html css js
 ## Author
 
 Abiy Teklu
+
